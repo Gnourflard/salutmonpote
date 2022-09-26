@@ -6,7 +6,7 @@
 /*   By: jmenjot <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/24 15:31:37 by jmenjot           #+#    #+#             */
-/*   Updated: 2022/09/24 16:15:16 by jmenjot          ###   ########.fr       */
+/*   Updated: 2022/09/26 14:35:18 by jmenjot          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -28,10 +28,11 @@ int	ft_str_is_numeric(char *str)
 	}
 	return(1);
 }
-
+/*
 int	main(void)
 
 {
 	printf("%d\n", ft_str_is_numeric("5"));
 	return(0);
 }
+*/

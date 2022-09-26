@@ -6,7 +6,7 @@
 /*   By: jmenjot <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/22 16:52:53 by jmenjot           #+#    #+#             */
-/*   Updated: 2022/09/24 11:59:17 by jmenjot          ###   ########.fr       */
+/*   Updated: 2022/09/26 14:31:17 by jmenjot          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,13 +27,13 @@ char	*ft_strcpy(char *dest, char *src)
 	dest[i] = '\0';
 	return dest;
 }
-
+/*
 int	main(void)
 
 {
-	char	src[]= "pitie";
+	char	src[]= "salutmonpote";
 	char	dest[]= "";
 	printf("%s\n", ft_strcpy(dest,src));
 	return (0);
 }
-
+*/

@@ -6,7 +6,7 @@
 /*   By: jmenjot <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/25 16:29:57 by jmenjot           #+#    #+#             */
-/*   Updated: 2022/09/25 16:32:49 by jmenjot          ###   ########.fr       */
+/*   Updated: 2022/09/26 14:41:05 by jmenjot          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -28,11 +28,11 @@ char	*ft_strlowcase(char *str)
 	}
 	return(str);
 }
-
+/*
 int	main(void)
 
 {
 	char	str[] = "CACACACACA";
 	printf("%s\n", ft_strlowcase(str));
 }
-
+*/
